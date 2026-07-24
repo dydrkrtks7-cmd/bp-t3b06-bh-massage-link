@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>상수 코인노래방 추천 가이드</title>
+  <rect width="64" height="64" rx="13" fill="hsl(82 74% 32%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(165 68% 63%)" opacity="0.16"/>
+  <g transform="rotate(0 32 32)"><rect x="14" y="34" width="9" height="16" rx="2" fill="hsl(82 24% 96%)"/><rect x="27" y="26" width="9" height="24" rx="2" fill="hsl(82 24% 96%)"/><rect x="40" y="16" width="9" height="34" rx="2" fill="hsl(165 68% 63%)"/></g>
+</svg>
