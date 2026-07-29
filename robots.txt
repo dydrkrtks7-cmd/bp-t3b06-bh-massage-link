@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangsu-coin-karaoke-note.hongdae-massage-review.xyz/sitemap.xml
